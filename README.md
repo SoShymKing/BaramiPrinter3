@@ -7,7 +7,7 @@
 - Marlin Firmware [2.0.x](https://github.com/MarlinFirmware/Marlin) + [Bugfix-2.0.x](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)
 
 ## 개발자 연락처 및 정보
-[바라미 27기 신현호](https://tanukimong.github.io/online-cv)
+[바라미](www.ibarami.com)
 
 ## HW info
 - 사용 메인보드 : [SKR v1.3](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
